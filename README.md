@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora do Novo Social v2 | DZ Studio</title>
+    <title>Calculadora do Novo Social | DZ Studio</title>
     <style>
         :root {
             --bg-color: #0f0f11;
@@ -163,7 +163,7 @@
 <div class="container">
     <form id="quiz-form">
         <h1>Diagnóstico do Novo Social</h1>
-        <div class="subtitle">Descubra a postura de marca e o escopo ideal para o seu e-commerce.</div>
+        <div class="subtitle">Descubra o melhor escopo para sua presença no Novo Social.</div>
 
         <!-- Q1 (Checkbox) -->
         <div class="question">
