@@ -1,0 +1,1 @@
+# lucaskircher-estrategia.github.io
